@@ -10,7 +10,6 @@ Upload an image containing a mathematical equation.
 Click "Extract LaTeX".
 View the extracted LaTeX code and rendered output.
 
----
 
 ## 🚀 **Features**
 - 📤 **Upload an image** (PNG, JPG, JPEG)  
@@ -18,12 +17,10 @@ View the extracted LaTeX code and rendered output.
 - 🖥️ **Display LaTeX code and rendered output**  
 - 📦 **Simple & interactive UI with Streamlit**  
 
----
 
 ## **Set Up OpenAI API Key** 
 Create a .env file and add: OPENAI_API_KEY=your-api-key-here
 
----
 
 ## **Run the App** 
 streamlit run app.py
